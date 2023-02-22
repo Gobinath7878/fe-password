@@ -4,7 +4,7 @@ import Login from "./components/Login";
 import EmailVerify from "./components/EmailVerify";
 import ForgotPassword from "./components/ForgotPassword";
 import PasswordReset from "./components/PasswordReset";
-import Home from "./components/Home/Home";
+import Home from "./components/Home";
 
 function App() {
 	// const user = localStorage.getItem("token");
