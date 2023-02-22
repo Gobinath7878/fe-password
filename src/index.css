@@ -1,0 +1,31 @@
+.home{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-text{
+  font-size: 50px;
+}
+.home-text span{
+  color: rgb(168, 238, 55);
+  font-size: 75px;
+}
+.header{
+  width: 100%;
+  margin-top:20px;
+  color: gray;
+  text-align:end;
+}
+.header a{
+  text-decoration: none;
+  margin-top: 20px;
+  margin-right: 50px;
+  font-size: 20px;
+  background-color: black;
+  color: rgb(225, 236, 206);
+  padding: 10px;
+  border-radius: 5px;
+}
+.header a:hover{
+  background-color: rgb(54, 54, 54);
+}
